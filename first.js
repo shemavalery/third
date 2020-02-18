@@ -5,3 +5,4 @@ if (name == 'samson'){
 else{
     console.log('not correct')
 }
+var kids = 35;
